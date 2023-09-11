@@ -1,5 +1,6 @@
 /21-custom-form/setup.cmd
 */setup.cmd
+*.cmd
 bin
 obj
 *.env
