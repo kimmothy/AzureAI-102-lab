@@ -2,3 +2,4 @@
 */setup.cmd
 bin
 obj
+*.env
