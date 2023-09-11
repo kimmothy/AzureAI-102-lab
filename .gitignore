@@ -50,11 +50,7 @@
 20-ocr/C-Sharp/read-text/obj/Debug/netcoreapp3.1/read-text.AssemblyInfo.cs
 20-ocr/C-Sharp/read-text/obj/Debug/netcoreapp3.1/read-text.AssemblyInfoInputs.cache
 21-custom-form/C-Sharp/test-model/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-21-custom-form/C-Sharp/test-model/obj/Debug/netcoreapp3.1/test-model.AssemblyInfo.cs
-21-custom-form/C-Sharp/test-model/obj/Debug/netcoreapp3.1/test-model.AssemblyInfoInputs.cache
-21-custom-form/C-Sharp/train-model/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-21-custom-form/C-Sharp/train-model/obj/Debug/netcoreapp3.1/train-model.AssemblyInfo.cs
-21-custom-form/C-Sharp/train-model/obj/Debug/netcoreapp3.1/train-model.AssemblyInfoInputs.cache
+21-custom-form/setup.cmd
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/search-client.AssemblyInfo.cs
 22-create-a-search-solution/C-Sharp/margies-travel/obj/Debug/netcoreapp3.1/search-client.AssemblyInfoInputs.cache
